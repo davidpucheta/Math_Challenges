@@ -1,4 +1,5 @@
 //Code challenge para entrevista del 22 de Dic de 2016
+//Regresar el número fibonacci en una posicion dada (n)
 
 function getN(n) {
 
