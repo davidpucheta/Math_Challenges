@@ -11,3 +11,8 @@ sumasIguales( [ -4, 10, -6 ] ); // true
 sumasIguales( [ 1, 2, 3, 4, 1, 1 ] ); // true
 
 */
+
+function sumaEsPar(arr){
+
+
+}
