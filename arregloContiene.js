@@ -9,7 +9,7 @@ function contiene(arr, n, r){
        return elemento === n;
    });
 
-   return filtrados.length === r ? true : false;
+   return filtrados.length >= r ? true : false;
 
 }
 
